@@ -2,7 +2,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Modules](#setup)
+* [Modules](#modules)
 
 ## General info
 This application aims to connect investors and business people in India by providing a platform for investors to find innovative business ideas and proposals. This application bridges the communication gap between investors and business people and provides an opportunity for investors to invest their excess funds directly into businesses.
@@ -42,7 +42,7 @@ $ py manage.py runserver
   *Responsive platform with HTML5, CSS3, and Bootstrap<br>
   *Back-end uses PHP and MYSQL, and the control end uses Angular JavaScript
 
-## Modules:
+## Modules
 ### User Module: 
    ###### Register and login, view business categories
 
