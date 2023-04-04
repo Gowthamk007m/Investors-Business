@@ -1,0 +1,1 @@
+web: gunicorn INVESTORS.wsgi --log-file -
